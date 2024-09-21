@@ -10,7 +10,6 @@
   height: 100%;
   width: 0;
   position: fixed;
-  z-index: 999;
   top: 0;
   left: 0;
   background-color: #060b40;
@@ -51,7 +50,6 @@
   color: white;
   cursor: pointer;
 }
-
 .sidenav-header {
   color: #e8eaed;
   font-size: 24px;

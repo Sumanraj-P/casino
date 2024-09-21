@@ -1,13 +1,11 @@
-import logo from './logo.svg';
 import Sidebar from './Sidebar';
-import BrowseWithdrawals from './BrowseWithdrawals'
-import './App.css';
+import BrowseWithdrawals from './withdrawalsList'
 
 function App() {
   return (
     <div>
-      <Sidebar />{}
-      <BrowseWithdrawals/>{}
+      <Sidebar />
+      <BrowseWithdrawals/>
     </div>
   );
 }
